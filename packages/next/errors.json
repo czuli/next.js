@@ -1001,5 +1001,9 @@
   "1000": "Node.js Readable responses cannot be coerced to web ReadableStream arrays",
   "1001": "createRuntimePrefetchNodeTransform is not supported in edge runtime",
   "1002": "createInlinedDataNodeStream is not supported in edge runtime",
-  "1003": "NODE_STREAMS_PATH_REACHED"
+  "1003": "NODE_STREAMS_PATH_REACHED",
+  "1004": "processNodePrelude is not supported in edge runtime",
+  "1005": "createUnclosingNodeStream is not supported in edge runtime",
+  "1006": "createClosingNodeStream is not supported in edge runtime",
+  "1007": "Cannot tee a Node.js stream in the edge runtime"
 }
